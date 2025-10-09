@@ -38,101 +38,82 @@ sidebar:
     title: Languages
     info:
       - idiom: English
-        level: Native
+        level: Professional
 
       - idiom: French
-        level: Professional
+        level: Basic
 
-      - idiom: Spanish
-        level: Professional
+      - idiom: Portuguese
+        level: Native
 
   interests:
     title: Interests
     info:
-      - item: Climbing
+      - item: Music
         link:
 
-      - item: Snowboarding
+      - item: Hiking
         link:
 
-      - item: Cooking
+      - item: History
         link:
 
 career-profile:
   title: Career Profile
   summary: |
-    Summarise your career here lorem ipsum dolor sit amet, consectetuer
-    adipiscing elit. You can [download this free resume/CV template here]().
-    Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-    penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-    Donec quam felis, ultricies nec, pellentesque eu.
-    Second paragraph if required.
+    Software Development student at NBCC with practical experience in C#, .NET, JavaScript, and SQL. My background in logistics and manufacturing has strengthened my analytical thinking and process-oriented mindset, which I now apply to software development. I’m motivated by efficiency, collaboration, and continuous improvement.
 education:
   title: Education
   info:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: Diploma in Software Development
+      university: New Brunswick Community College
+      time: 2024 - 2026
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+        - C#, Java, JavaScript, PHP, SQL, HTML, CSS. 
+        - Object-Oriented Programming (OOP) and software design principles.
+        - Database design, SQL queries, and data management.
+        - Web development with MVC frameworks and responsive design.
+        - Software testing, debugging, and quality assurance.
+        - Agile methodologies and collaborative development workflows.
+        - Cloud computing fundamentals (AWS) and deployment practices.
+        - Technical documentation and project-based learning.
+    - degree: Diploma in Logistics Technology
+      university: Estacio de Sa University
+      time: 2012 - 2014
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        - Logistics and supply chain management.
+        - Process modeling.
+        - Operations management.
+        - Procurement.
+        - Reverse logistics.
+        - Transportation systems.
+        - International transport.
+        - Business management.
 
 experiences:
   title: Experiences
   info:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Mailroom Associate
+      time: 2023 - 2024
+      company: J.D. Irving, Saint John
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        - Applied Lean Six Sigma (White Belt) and 5S principles to improve process efficiency.
+        - Created standardized instructional documentation for mailroom operations.
+        - Managed couriers, deliveries, and inventory control with attention to detail and accuracy.
+    - role: Production Operator
+      time: 2021 - 2023
+      company: Crosbys Molasses, Saint John
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+        - Operated production line systems and performed troubleshooting to minimize downtime.
+        - Operated production line systems and performed troubleshooting to minimize downtime.
+        - Used warehouse management system to track production and material allocation.
+    - role: Supervisor & Postal Clerk
+      time: Long-term role
+      company: Brazilian Post - Correios, Brazil
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        - Supervised several post offices for compliance with national quality standards.
+        - Led parcel/mail handling center loss-control initiatives.
+        - Developed customer service solutions, reducing complaint resolution times.
 
 certifications:
   title: Certifications
