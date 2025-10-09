@@ -118,43 +118,24 @@ experiences:
 certifications:
   title: Certifications
   list:
-    - name: CV Builder
-      start: 2020
-      end: 2021
-      organization: Microsoft
-      credentialid: 111-222
-      credentialurl: www.google.com
-      credentialname: Google
+    - name: AWS Academy Graduate - Cloud Foundations
+      start: 2025
+      end: 2025
+      organization: Amazon
+      credentialid: 4d5ca62e-9a76-4f7f-91b3-811034921025
+      credentialurl: https://www.credly.com/badges/4d5ca62e-9a76-4f7f-91b3-811034921025/public_url
+      credentialname:
       details: |
-        Details about cert. Lorem ipsum dolor sit amet, consectetur
-        adipiscing elit.
-        Nullam eget orci purus. Nullam ultrices neque nibh.
-        Aenean fermentum, felis vulputate suscipit accumsan,
-        sem enim bibendum augue, sed convallis arcu lacus at dui.
-        Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-        Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-        Praesent venenatis erat non augue suscipit consectetur.
-
-        Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-        fringilla vel. Ut euismod, sem sed vulputate venenatis,
-        justo diam viverra velit, sed rhoncus leo leo eu justo.
-        Suspendisse placerat risus ante, sed porta nisi blandit at.
-    - name: Git learning
-      start: 2019
-      end:
-      organization: Microsoft
-      credentialid: 111-222
-      credentialurl: www.github.com
-      credentialname: Github
+        AWS Academy Cloud Foundations is intended for students who seek an overall understanding of cloud computing concepts, independent of specific technical roles. It provides a detailed overview of cloud concepts, AWS core services, security, architecture, pricing, and support.
+    - name: Lean Six Sigma White Belt
+      start: 2024
+      end: 2024
+      organization: J.D. Irving
+      credentialid:
+      credentialurl:
+      credentialname:
       details: |
-        Older certification. Lorem ipsum dolor sit amet, consectetur
-        adipiscing elit.
-        Nullam eget orci purus. Nullam ultrices neque nibh.
-        Aenean fermentum, felis vulputate suscipit accumsan,
-        sem enim bibendum augue, sed convallis arcu lacus at dui.
-        Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-        Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-        Praesent venenatis erat non augue suscipit consectetur.
+        Fundamental introduction to the Lean Six Sigma methodology, focusing on basic concepts, terminology, and the elimination of waste and defects to improve process efficiency.
 
 projects:
   title: Projects
