@@ -61,13 +61,13 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    Software Development student at NBCC with practical experience in C#, .NET, JavaScript, and SQL. My background in logistics and manufacturing has strengthened my analytical thinking and process-oriented mindset, which I now apply to software development. I’m motivated by efficiency, collaboration, and continuous improvement.
+    Software Development student at NBCC with practical experience in C#, .NET, JavaScript, and SQL. My background in logistics and manufacturing has strengthened my analytical thinking and process-oriented mindset, which I now apply to software development. I am motivated by efficiency, collaboration, and continuous improvement.
 education:
   title: Education
   info:
     - degree: Diploma in Software Development
       university: New Brunswick Community College
-      time: 2024 - 2026
+      time: 2024 - Present
       details: |
         - C#, Java, JavaScript, PHP, SQL, HTML, CSS. 
         - Object-Oriented Programming (OOP) and software design principles.
