@@ -143,9 +143,9 @@ projects:
   intro: >
     A selection of projects completed as part of my college coursework.
   assignments:
-    - title: Velocity
-      link: "#hook"
-      tagline: "A responsive website template designed to help startups promote, market and sell their products."
+    - title: InstruMINT - Used Musical Instruments Store
+      link: "https://github.com/AndreLiraFr/OOP_store"
+      tagline: "A desktop application project using C# to simulate a Web Store service. Developed by me and my classmate Jake Landry. The application allows users to browse products, add them to a shopping cart, and proceed to checkout. It features a user-friendly interface and implements object-oriented programming principles."
 
     - title: A Journey to Italy
       link: "https://github.com/AndreLiraFr/A_Journey_To_Italy_website"
@@ -153,16 +153,16 @@ projects:
       tagline: "A responsive website developed by me and my classmate Shane McLellan for the Responsive Web Design course. The project was built using HTML, CSS, and Bootstrap, showcasing our ability to create modern, user-friendly layouts."
 
     - title: Tempo
-      link: "#"
-      tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      link: "https://github.com/AndreLiraFr/DatabaseProgramming"
+      tagline: "A Windows Forms application using C#, MySQL, and Entity Framework Core. Implemented CRUD operations, LINQ queries, scaffolding, and advanced data grid features including search, grouping, and dynamic updates. The prpoject was done using a starter code provided by the instructor."
 
-    - title: Atom
-      link: "#"
-      tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+    # - title: Atom
+    #   link: "#"
+    #   tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-    - title: Delta
-      link: "#"
-      tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+    # - title: Delta
+    #   link: "#"
+    #   tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 # oss:
 #   title: OSS Contributions
