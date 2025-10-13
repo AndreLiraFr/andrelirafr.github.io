@@ -363,3 +363,17 @@ p {
     margin-right: 5px;
   }
 }
+.project-img {
+  height: 150px;
+  width: auto;
+  object-fit: cover;
+  border-radius: 8px;
+  display: block;
+  margin-bottom: 10px;
+}
+
+@media (max-width: 600px) {
+  .project-img {
+    height: 100px;
+  }
+}
