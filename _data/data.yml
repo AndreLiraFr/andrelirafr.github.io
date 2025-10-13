@@ -149,7 +149,7 @@ projects:
 
     - title: A Journey to Italy
       link: "https://github.com/AndreLiraFr/A_Journey_To_Italy_website"
-      image: "assets\images\journey.png"
+      image: "assets/images/journey.png"
       tagline: "A responsive website developed by me and my classmate Shane McLellan for the Responsive Web Design course. The project was built using HTML, CSS, and Bootstrap, showcasing our ability to create modern, user-friendly layouts."
 
     - title: Tempo
