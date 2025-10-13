@@ -19,20 +19,25 @@
   {% for project in projects.assignments %}
     <div class="item">
 
-      <span class="project-title">
-        {% if project.link %}
-        <a href="{{ project.link }}" target="_blank">{{ project.title }}</a>
-        {% else %}
-        {{ project.title }}
-        {% endif %}
-      </span>
+      {% if project.image %}
+      <div class="project-image">
+        <img src="{{ project.image }}" alt="{{ project.title }}" class="img-fluid" />
+      </div>
+    {% endif %}
 
-      {% if project.tagline %}
-      - <span class="project-tagline">{{ project.tagline }}</span>
+    <span class="project-title">
+      {% if project.link %}
+      <a href="{{ project.link }}" target="_blank">{{ project.title }}</a>
+      {% else %}
+      {{ project.title }}
       {% endif %}
+    </span>
 
-    </div><!--//item-->
-  {% endfor %}
+    {% if project.tagline %}
+    - <span class="project-tagline">{{ project.tagline }}</span>
+    {% endif %}
 
+  </div><!--//item-->
+{% endfor %}
 </section><!--//section-->
 {% endif %}
