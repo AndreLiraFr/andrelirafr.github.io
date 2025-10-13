@@ -363,7 +363,7 @@ p {
     margin-right: 5px;
   }
 }
-.project-img {
+.project-image {
   height: 150px;
   width: auto;
   object-fit: cover;
@@ -373,7 +373,7 @@ p {
 }
 
 @media (max-width: 600px) {
-  .project-img {
+  .project-image {
     height: 100px;
   }
 }
