@@ -127,6 +127,7 @@ certifications:
       credentialname:
       details: |
         AWS Academy Cloud Foundations is intended for students who seek an overall understanding of cloud computing concepts, independent of specific technical roles. It provides a detailed overview of cloud concepts, AWS core services, security, architecture, pricing, and support.
+
     - name: Lean Six Sigma White Belt
       start:
       end: 2024
@@ -140,15 +141,16 @@ certifications:
 projects:
   title: Projects
   intro: >
-    Here are some projects I have worked on in college.
+    A selection of projects completed as part of my college coursework.
   assignments:
     - title: Velocity
       link: "#hook"
       tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-    - title: DevStudio
-      link: "#"
-      tagline: "A responsive website template designed to help web developers/designers market their services."
+    - title: A Journey to Italy
+      link: "https://github.com/AndreLiraFr/A_Journey_To_Italy_website"
+      image: "assets\images\journey.png"
+      tagline: "A responsive website developed by me and my classmate Shane McLellan for the Responsive Web Design course. The project was built using HTML, CSS, and Bootstrap, showcasing our ability to create modern, user-friendly layouts."
 
     - title: Tempo
       link: "#"
@@ -224,21 +226,21 @@ skills:
 
   toolset:
     - name: C#, .NET
-      level: 75%
+      level: 60%
 
     - name: Javascript
-      level: 82%
+      level: 72%
 
     - name: SQL
-      level: 68%
+      level: 58%
 
     - name: HTML5 & CSS
-      level: 90%
+      level: 80%
 
     - name: Database Design
       level: 45%
 
-    - name: PHP
+    - name: PHP*
       level: 0%
 
 footer: >
