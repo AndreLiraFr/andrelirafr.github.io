@@ -149,10 +149,9 @@ projects:
 
     - title: A Journey to Italy
       link: "https://github.com/AndreLiraFr/A_Journey_To_Italy_website"
-      image: "journey.png"
       tagline: "A responsive website developed by me and my classmate Shane McLellan for the Responsive Web Design course. The project was built using HTML, CSS, and Bootstrap, showcasing our ability to create modern, user-friendly layouts."
 
-    - title: Tempo
+    - title: Database Programming Project
       link: "https://github.com/AndreLiraFr/DatabaseProgramming"
       tagline: "A Windows Forms application using C#, MySQL, and Entity Framework Core. Implemented CRUD operations, LINQ queries, scaffolding, and advanced data grid features including search, grouping, and dynamic updates. The prpoject was done using a starter code provided by the instructor."
 
