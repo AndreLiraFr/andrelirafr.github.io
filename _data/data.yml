@@ -205,12 +205,12 @@ projects:
 recommendations:
   title: Recommendations
   list:
-    - person: Yareli Perez
-      email: perezyareli@example.com
-      phone: 012 345 6789
-      role: General Director at example.com
+    - person: Aaron Mitchell
+      email:
+      phone:
+      role: Coordinating Instructor┃Information Technology:Software Development at NBCC
       recommendation: |
-        Alan Doe is a super employee!
+        Andre has been an excellent student during his time here at NBCC. He attends class on time and is always paying attention and asking good questions. He is a hard worker and a great student and would be an asset to any team.
     - person: Lara Henderson
       email: larah@example.com
       phone: 012 345 6789
