@@ -211,14 +211,14 @@ recommendations:
       role: Coordinating Instructor┃Information Technology:Software Development at NBCC
       recommendation: |
         Andre has been an excellent student during his time here at NBCC. He attends class on time and is always paying attention and asking good questions. He is a hard worker and a great student and would be an asset to any team.
-    - person: Lara Henderson
-      email: larah@example.com
-      phone: 012 345 6789
-      role: General Director at example.com
-      recommendation: |
-        I would like to work with Alan Doe again!
+    # - person: Lara Henderson
+    #   email: larah@example.com
+    #   phone: 012 345 6789
+    #   role: General Director at example.com
+    #   recommendation: |
+    #     I would like to work with Alan Doe again!
 
-        He is a great employee!
+    #     He is a great employee!
 
 skills:
   title: Skills &amp; Proficiency
