@@ -156,7 +156,9 @@ projects:
       tagline: "A Windows Forms application using C#, MySQL, and Entity Framework Core. Implemented CRUD operations, LINQ queries, scaffolding, and advanced data grid features including search, grouping, and dynamic updates. The project was done using a starter code provided by the instructor."
 
     - title: Bowling Tournament Management System
-      link: "#"
+      screenshots:
+        - /screenshots/bowling1.png
+        - /screenshots/bowling2.png
       tagline: "A web application to manage the registration of teams and players using input validation and error handling, using a designed a SQL database and implemented CRUD functionality, collaborated with classmates (Jake Landry and Jayden Bradbin) using GitHub and Agile development practices."
 
     # - title: Delta
@@ -225,7 +227,7 @@ skills:
 
   toolset:
     - name: C#, .NET
-      level: 55%
+      level: 65%
 
     - name: Javascript
       level: 62%
@@ -237,10 +239,10 @@ skills:
       level: 70%
 
     - name: Database Design
-      level: 40%
+      level: 50%
 
-    - name: PHP* (learning in progress)
-      level: 0%
+    - name: PHP
+      level: 40%
 
 footer: >
   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>

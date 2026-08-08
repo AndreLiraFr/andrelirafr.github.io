@@ -9,6 +9,14 @@
   display: block;
   margin-bottom: 10px;
 }
+.project-thumb {
+  height: 80px;
+  width: 80px;
+  object-fit: cover;
+  border-radius: 6px;
+  margin-right: 6px;
+  cursor: pointer;
+}
 </style>
 <section class="section projects-section">
 
@@ -33,6 +41,16 @@
       <div class="project-image">
         <img src="{{ project.image }}" alt="{{ project.title }}" class="img-fluid" />
       </div>
+    {% endif %}
+
+    {% if project.screenshots %}
+    <div class="project-screenshots mb-2">
+      {% for img in project.screenshots %}
+        <a href="{{ img | relative_url }}" class="glightbox" data-gallery="{{ project.title | slugify }}">
+          <img src="{{ img | relative_url }}" alt="{{ project.title }} screenshot" class="project-thumb" />
+        </a>
+      {% endfor %}
+    </div>
     {% endif %}
 
     <span class="project-title">
