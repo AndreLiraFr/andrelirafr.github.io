@@ -93,6 +93,16 @@ education:
 experiences:
   title: Experiences
   info:
+    - role: Work Practicum - Business Systems Analyst
+      time: 2026
+      company: USTATION, Saint John
+      details: |
+        - Conducted a comprehensive analysis of the customer onboarding process, evaluating the complete user journey and identifying opportunities for process improvement.
+        - Performed website usability and quality reviews, documenting navigation, content, and user experience issues and providing recommendations for corrective actions.
+        - Analyzed and prioritized findings based on business impact, risk, and implementation effort, supporting management decision-making.
+        - Assisted in the evaluation and planning of a new facility access control system, including mobile authentication and automated entry technologies. 
+        - Contributed to the design of a customer assessment and recommendation system by helping define customer profiling logic and service recommendation workflows. 
+        - Prepared detailed analytical reports and recommendations for management using structured documentation and process analysis techniques.
     - role: Mailroom Associate
       time: 2023 - 2024
       company: J.D. Irving, Saint John
