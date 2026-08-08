@@ -65,7 +65,7 @@ career-profile:
 education:
   title: Education
   info:
-    - degree: Diploma in Software Development
+    - degree: Diploma in Software Development - Systems Analysis
       university: New Brunswick Community College
       time: 2024 - 2026
       details: |
@@ -155,9 +155,9 @@ projects:
       link: "https://github.com/AndreLiraFr/DatabaseProgramming"
       tagline: "A Windows Forms application using C#, MySQL, and Entity Framework Core. Implemented CRUD operations, LINQ queries, scaffolding, and advanced data grid features including search, grouping, and dynamic updates. The project was done using a starter code provided by the instructor."
 
-    # - title: Atom
-    #   link: "#"
-    #   tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+    - title: Bowling Tournament Management System
+      link: "#"
+      tagline: "A web application to manage the registration of teams and players using input validation and error handling, using a designed a SQL database and implemented CRUD functionality, collaborated with classmates (Jake Landry and Jayden Bradbin) using GitHub and Agile development practices."
 
     # - title: Delta
     #   link: "#"
